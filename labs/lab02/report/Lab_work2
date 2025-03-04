@@ -16,7 +16,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -55,10 +54,8 @@ biblatexoptions:
   - citestyle=gost-numeric
 ## Pandoc-crossref LaTeX customization
 figureTitle: "Рис."
-tableTitle: "Таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
-lotTitle: "Список таблиц"
 lolTitle: "Листинги"
 ## Misc options
 indent: true
@@ -80,6 +77,7 @@ header-includes:
 4.Настроить подписи git.
 5.Зарегистрироваться на Github.
 6.Создать локальный каталог для выполнения заданий по предмету.
+
 
 
 # Выполнение лабораторной работы
@@ -177,8 +175,6 @@ Cкопирую сгенерированный gpg ключ в буфер обм
 Отправляю Файлы на сервер:
 
 ![Отправление файлы на сервер](image/22.png){#fig:022 width=70%}
-
-
 
 # Выводы
 
