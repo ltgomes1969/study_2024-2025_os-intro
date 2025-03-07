@@ -41,13 +41,21 @@ header-includes:
 
 ![Каталог lab03/report](image/1.png){#fig:001 width=70%}
 
-Далее копирую файл report.md с новым названием LabWork2. Затем я редактирую файл LabWork2 с помощью gedit:
+## Готовка отчёта по лабораторной работе №2
+
+- Копирую файл report.md с новым названием LabWork2.
 
 ![Копирование файла](image/2.png){#fig:002 width=70%}
 
+## Готовка отчёта по лабораторной работе №2
+
+- Затем я редактирую файл LabWork2 с помощью gedit:
+
 ![Редатирование](image/3.png){#fig:003 width=70%}
 
-Копирую файл LabWork2 в файл LabWork2.md и с помощью командой make создаю LabWork2.docx и LabWork2.pdf:
+## Готовка отчёта по лабораторной работе №2
+
+- Копирую файл LabWork2 в файл LabWork2.md и с помощью командой make создаю LabWork2.docx и LabWork2.pdf:
 
 ![Создание abWork2.docx и LabWork2.pdf](image/4.png){#fig:004 width=70%}
 
